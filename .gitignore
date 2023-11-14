@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# IDE-specific files
+.idea/
+
+# Visual Studio Code specific files
+.vscode/
+
+# References folder
+references/
+
+# 
